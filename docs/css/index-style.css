@@ -1,0 +1,14 @@
+body {
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.minus-margin-for-button {
+    margin-bottom: -20px;
+}
