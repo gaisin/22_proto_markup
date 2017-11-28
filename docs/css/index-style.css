@@ -12,3 +12,42 @@ a:hover {
 .minus-margin-for-button {
     margin-bottom: -20px;
 }
+
+.link-cursor {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.time-and-bookmark-margin {
+    margin-top: -10px;
+}
+
+.description-margin {
+    margin-top: 10px;
+}
+
+.entry {
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+.refs {
+    margin-top: 50px;
+}
+
+.footer {
+    background: #ccc;
+    margin-top: 50px;
+}
+
+.padding-bottom-10 {
+    padding-bottom: 10px;
+}
+
+.bg-red {
+    background: red;
+}
+
+.bg-green {
+    background: green;
+}
