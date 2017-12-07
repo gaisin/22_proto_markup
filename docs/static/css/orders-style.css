@@ -1,0 +1,25 @@
+.logo {
+    margin-left: 50px;
+}
+
+.description-margin {
+    margin-top: 10px;
+}
+
+.time-and-bookmark-margin {
+    margin-top: -10px;
+}
+
+.link-cursor {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.entry {
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+.paginator {
+    margin-top: 20px;
+}
