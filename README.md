@@ -4,8 +4,8 @@ Here's W3C-valid page using Twitter Bootstrap from .png layout given. Works corr
 
 
 # Check it out on GitHub Pages
-[Index page](https://gaisin.github.io/22_proto_markup/index_generated.html)
-[Orders page](https://gaisin.github.io/22_proto_markup/orders_generated.html)
+[Index page](https://gaisin.github.io/22_proto_markup/index_generated.html)  
+[Orders page](https://gaisin.github.io/22_proto_markup/orders_generated.html)  
 
 
 # Project Goals
